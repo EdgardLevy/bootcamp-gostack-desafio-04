@@ -1,0 +1,10 @@
+.comment-content{
+  margin: 25px;
+}
+
+.comment-author img {
+  height: 50px;
+  width: 50px;
+  border-radius: 35px;
+  margin: 5px 5px;
+}

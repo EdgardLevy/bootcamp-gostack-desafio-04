@@ -1,0 +1,14 @@
+.post-list{
+  position: relative;
+  background: red;
+  width: 80%;
+  max-width: 640px;
+  margin: 24px auto;
+}
+
+.post-person img {
+  height: 50px;
+  width: 50px;
+  border-radius: 35px;
+  margin: 5px 5px;
+}
