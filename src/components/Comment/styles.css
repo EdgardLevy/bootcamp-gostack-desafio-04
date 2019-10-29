@@ -1,10 +1,18 @@
-.comment-content{
-  margin: 25px;
+.comment{
+  display: flex;
+  flex-direction: row;
+
 }
 
-.comment-author img {
-  height: 50px;
-  width: 50px;
-  border-radius: 35px;
-  margin: 5px 5px;
+.comment .details {
+  background: rgb(231, 231, 231);
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+  width: 100%;
+}
+
+.comment .details label{
+  font-weight: bold;
+  margin-right: 5px;
 }
